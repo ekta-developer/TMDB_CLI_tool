@@ -1,0 +1,22 @@
+{
+  "name": "tmdb_cli_tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "tmdb-app": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple CLI to fetch TMDB movies (now playing, popular, top rated, upcoming)",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "chalk": "^4.1.2",
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
