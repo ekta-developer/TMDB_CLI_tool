@@ -9,3 +9,5 @@ Simple command line tool to fetch movies from The Movie Database (TMDB).
 
 ```bash
 npm install
+
+https://github.com/ekta-developer/TMDB_CLI_tool
